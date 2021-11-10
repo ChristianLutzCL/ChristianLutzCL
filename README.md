@@ -1,5 +1,14 @@
 # Hi, I'm Chris 👋
 
+- 🔭 I’m currently working on [OpenReallife](https://github.com/OpenReallife)
+- 🌱 I’m currently learning Next, ReactJS and ReactNative
+- 👯 I’m looking to collaborate on OpenReallife
+- 🤔 I’m looking for help with UI/UX Design and using ThreeJS
+- 💬 Ask me about OpenReallife
+- 📫 How to reach me: chris@inspiredprogrammer.com
+- ⚡ Fun fact: Germany is not Bavaria 😉
+
+
 ## My attitude
 
 In my opinion, people in the IT industry have little or no understanding of political influences on the lives of humanity. I categorically reject the idea of self-selected pronouns because, as part of the IT community, I still put humanity first. 
@@ -10,14 +19,4 @@ I stand for myself on the ground of the facts that this dual world offers me. I 
 
 For me, the digital world is a tool that should enrich human life.
 It is not a substitute for real life, unlike what big corporations and politics want to sell us these days.
-
-
-
-- 🔭 I’m currently working on [OpenReallife](https://github.com/OpenReallife)
-- 🌱 I’m currently learning Next, ReactJS and ReactNative
-- 👯 I’m looking to collaborate on OpenReallife
-- 🤔 I’m looking for help with UI/UX Design and using ThreeJS
-- 💬 Ask me about OpenReallife
-- 📫 How to reach me: chris@inspiredprogrammer.com
-- ⚡ Fun fact: Germany is not Bavaria 😉
 
