@@ -1,5 +1,3 @@
-# Hi, I'm Chris 👋
-
 ![Banner](https://github.com/ChristianLutzCL/ChristianLutzCL/blob/master/banner.gif)
 
 - 🔭 I’m currently working on [Menetrend](https://upmock.io)
