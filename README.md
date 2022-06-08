@@ -1,4 +1,6 @@
+<a href="#"><p align="center">
 ![Banner](https://github.com/ChristianLutzCL/ChristianLutzCL/blob/master/banner.gif)
+</a>
 
 ## About Me 😎
 - 🔭 I’m currently working on [Menetrend](https://menetrend.xyz)
