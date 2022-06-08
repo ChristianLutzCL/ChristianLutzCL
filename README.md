@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ChristianLutzCL/ChristianLutzCL/blob/master/banner.gif)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ## About Me 😎
 - 🔭 I’m currently working on [Menetrend](https://menetrend.xyz)
