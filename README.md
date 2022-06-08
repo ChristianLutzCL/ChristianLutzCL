@@ -1,7 +1,5 @@
 ![Banner](https://github.com/ChristianLutzCL/ChristianLutzCL/blob/master/banner.gif)
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
 ## About Me 😎
 - 🔭 I’m currently working on [Menetrend](https://menetrend.xyz)
 - 🔭 I’m the person behind [InspiredProgrammer](https://inspiredprogrammer.com) and [@insprogrammer](https://www.instagram.com/insprogrammer/)
@@ -20,6 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ChristianLutzCL&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChristianLutzCL&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLutzCL&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
