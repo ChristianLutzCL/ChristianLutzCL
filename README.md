@@ -1,15 +1,15 @@
-<a href="#"><p align="center">
-![Banner](https://github.com/ChristianLutzCL/ChristianLutzCL/blob/master/banner.gif)
-</a>
-
 ## About Me 😎
-- 🔭 I’m currently working on [Menetrend](https://menetrend.xyz)
+- 🔭 I’m currently working on [discussio](https://discussio.online)
 - 🔭 I’m the person behind [InspiredProgrammer](https://inspiredprogrammer.com) and [@insprogrammer](https://www.instagram.com/insprogrammer/)
 - 🌱 I’m currently learning Next, ReactJS and ReactNative
 - 💬 Ask me about Menetrend
 - 📫 How to reach me: chris@inspiredprogrammer.com
 - ⚡ Fun fact: Germany is not Bavaria 😉
 
+# My 3 urgent book recommendations
+- Outwitting the Devil: The Secret to Freedom and Success
+- Lead the field
+- Hard Times Create Strong Men
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chrislutzyx) 
