@@ -1,10 +1,64 @@
-## About Me 😎
-- 🔭 I’m currently working on [discussio](https://discussio.online)
-- 🔭 I’m the person behind [InspiredProgrammer](https://inspiredprogrammer.com) and [@insprogrammer](https://www.instagram.com/insprogrammer/)
-- 🌱 I’m currently learning Next, ReactJS and ReactNative
-- 💬 Ask me about Menetrend
-- 📫 How to reach me: chris@inspiredprogrammer.com
-- ⚡ Fun fact: Germany is not Bavaria 😉
+````````````````````````````_wNTw_````````````````````````````
+```````````````````````````jyyyyyyu```````````````````````````
+``````````````````````````vyyyyyyyyL``````````````````````````
+``````````````````````````yyyyyyyyyy_`````````````````````````
+`````````````````````````Tyyyyyyyyyyy,````````````````````````
+`````````````````````````yyyyyyyyyyyyL````````````````````````
+````````````````````````yyyyyyp*yyyyyy_```````````````````````
+````````````,,,````````jyyyyyy``TyyyyyT````````;___,``````````
+`````````_wyyyyTwu;````yyyyyyI``~yyyyyy_```;vwyyyyyyu`````````
+````````vyyyyyyyyyyTw_jyyyyyy````Xyyyyyq_wsyyyyyyyyyyL````````
+````````yyyyyyyyyyyyyyyyyyyyI````~yyyyyyyyyyyyyyyyyyyy,```````
+```````"yyyyyyyyyyyyyyyyyyyy``````>yyyyyyyyyyyyyyyyyyyi```````
+```````?yyyyyyyyyyyyyyyyyyy[``````vyyyyyyyyyyyyyyyyyyyT```````
+```````?yyyyyy7*yyyyyyyyyyy``````vyyyyyyyyyyyy*7qyyyyy[```````
+```````?yyyyyI``'^7qyyyyyy*`````jyyyyyyyyyy*?```vyyyyy[```````
+```````"yyyyyL``````Tqqqqq'````syyyyyyyyp!``````_yyyyyI```````
+````````yyyyyq``````sTTTTT````syyyyyyy7~````````?yyyyy'```````
+````````Tyyyyy,`````pTTTT(``vqTTTyy*?```````````yyyyyy````````
+````````?yyyyyL`````qTTTT``jTTTTT7"`````````````yyyyy*````````
+````````vyyyyyy`````TTTT!`sTTTTTqswu__;;,``````"yyyyy^````````
+`````````yyyyyy_````TTTT,sTTTTTTTTTyyyyyyypswuusyyyyy`````````
+`````````TyyyyyT````TTTTTTTTTTTTTTTyyyyyyyyyyyyyyyyyy`````````
+`````````jyyyyyy,``vTTTTTTTTTTTTTTTyyyyyyyyyyyyyyyyyqu````````
+```````;syyyyyyyL``"TTTTTTTTm!`~^*Tyyyyyyqyyyyyyyyyyyyq_``````
+`````_syyyyyyyyyy``?TTTTTT7~```````7yyyyyL^*yyyyyyyyyyyyw;````
+````jyyyyyyyyyyyy_`?TTTTT```````````~yyyyy_`'7qyyyyyyyyyyyu,``
+```syyyyyyyyyyyyyq`sTTTTT````````````Tyyyyy_``~^*yyyyyyyyyyq;`
+``qTqyyyyyy*Tyyyyy(yyyyy`````````````~yyyyyq,````'*yyyyyyyyyq;
+`qTTTqyyyy!`~qyyyyLyyyy*``````````````TyyyyyT,`````'*yyyyyyyyq
+jTTTTTqy7````~yyyyyyyyy^``````````````"yyyyyyq```````'*yyyyyyy
+qTTTTTT'``````>yyyyyyyy````````````````qyyyyyyL````````>yyyyyy
+TTTTTTT````````7yyyyyyL````````````````syyyyyyy_```````vyyyyyy
+TTTTTTTw;```````Tyyyyyy(```````````````yyyyyyyyy_`````jyyyyyyy
+XTTTTTTTTw;`````~qyyyyyL``````````````jyyyyIyyyyy_``vyyyyyyyy*
+~TTTTTTTTTTp_````~yyyyyy``````````````yyyyy(Tyyyyq_myyyyyyyy*`
+`~TTTTTTTTTTyqu,``~yyyyy_`````````````TTTTT'"yyyyyyyyyyyyyy*``
+``~7TTTTTTTTyyyTu,`*yyyyq````````````sTTTTT``Tyyyyyyyyyyyy7```
+````'*TTTTTTyyyyyqu;Tyyyyw_````````;wTTTTTT``>yyyyyyyyyy*~````
+``````~TTTTTyyyyyyyywyyyyyy*u,```vsTTTTTTTT``~yyyyyyyy*~``````
+````````^qyyyyyyyyyyyyyyyyyyTTwwqTTTTTTTTTT```Tyyyyyy!````````
+`````````_yyyyyyyyyyyyyyyyyyTTTTTTTTTTTTTT[```"yyyyyy(````````
+`````````syyyyyyyyyyyyyyyyyyTTTTTTTTTTnTTT[````Tyyyyyi````````
+`````````yyyyyy`''^^!77*qyyyTTTTTTTTT'sTTTI````?yyyyyL````````
+`````````yyyyy*```````````''^TTTTTT*``TTTT(````~yyyyyy````````
+````````?yyyyy(```````````;wqTTTTT?``jTTTT.`````Tyyyyy(```````
+````````syyyyy``````````vsyyTTTTm~```qTTTT``````"yyyyyL```````
+````````yyyyyy```````_wyyyyyyyyT````vyyyyy```````yyyyyq```````
+````````yyyyy[````_wyyyyyyyyyy7`````syyyyywu_````yyyyyy```````
+```````vyyyyyq;_wmyyyyyyyyyyy?``````yyyyyyyyyTwuvyyyyyy```````
+```````vyyyyyyyyyyyyyyyyyyyy~``````syyyyyyyyyyyyyyyyyyy```````
+```````vyyyyyyyyyyyyyyyyyyyT```````yyyyyyyyyyyyyyyyyyyy```````
+````````yyyyyyyyyyyyyyyyyyyy(`````fyyyyyyyyyyyyyyyyyyy*```````
+````````YyyyyyyyyyyyypqyyyyyT`````yyyyyy**yyyyyyyyyyyy~```````
+`````````%yyyyyyyy7!'`~yyyyyy_```fyyyyyy``'^7*yyyyyy*~````````
+``````````^7777!"``````3yyyyyq```yyyyyy^``````''^^~'``````````
+```````````````````````~yyyyyyL;myyyyy*```````````````````````
+````````````````````````>yyyyyyyyyyyyy'```````````````````````
+`````````````````````````qyyyyyyyyyyy*````````````````````````
+``````````````````````````yyyyyyyyyyy`````````````````````````
+``````````````````````````*Nyyyyyyyy^`````````````````````````
+```````````````````````````7yyyyyyy*``````````````````````````
 
 # My 3 urgent book recommendations
 - Outwitting the Devil: The Secret to Freedom and Success
@@ -13,24 +67,6 @@
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chrislutzyx) 
-
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ChristianLutzCL&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChristianLutzCL&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLutzCL&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ChristianLutzCL&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
